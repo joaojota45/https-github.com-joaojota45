@@ -26,6 +26,7 @@ ________________________________________________________________________________
 🌐 Redes Sociais
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-0149871b0//)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://https://github.com/joaojota45)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaosilvapereira.045@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
 
