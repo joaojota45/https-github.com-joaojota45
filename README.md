@@ -29,5 +29,29 @@ ________________________________________________________________________________
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/joaojota45)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaosilvapereira.045@gmail.com)
 
+___________________________________________________________________________________________________________________________________________
+
+🧠 Soft Skills
+------------------------------------------------------------------------------------------------------------------------------------------
+- Comunicativo
+- Proativo
+- Liderança
+- Trabalho em Equipe
+- Flexivel
+___________________________________________________________________________________________________________________________________________
+💻 Hard Skills
+-------------------------------------------------------------------------------------------------------------------------------------------
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/cd333470-7ad7-4d68-bc2f-2cbd6d33f8a4" />
+<img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/cff9ceff-4a35-4c10-9786-17c08c162d36" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/ddc5d2b9-0faf-4ad1-a824-a7f8ba960500" />
+<img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/062883b1-94b1-4341-a942-f104db207fac" />
+<img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/45bc3b67-b8aa-424a-b94f-c4827e2d8958" />
+
+
+
+
+
+
+
 
 
